@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>26E1BFC4-CFC8-44EA-BC0F-C988423CF5A9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PrivatePubSocketRocketExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F4C30ACC15BC6CEF1AD3C25BE12C9066B00F00C3</key>
+		<string>bitbucket.org:deepakvig/heroku-sync.git</string>
+		<key>FDD6497B80DE26B5392AA2F93F6A3EF3781B86A6</key>
+		<string>https://github.com/nicolai86/private-pub-socket-rocket-ios-side.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PrivatePubSocketRocketExample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F4C30ACC15BC6CEF1AD3C25BE12C9066B00F00C3</key>
+		<string>../../..</string>
+		<key>FDD6497B80DE26B5392AA2F93F6A3EF3781B86A6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/nicolai86/private-pub-socket-rocket-ios-side.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FDD6497B80DE26B5392AA2F93F6A3EF3781B86A6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F4C30ACC15BC6CEF1AD3C25BE12C9066B00F00C3</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FDD6497B80DE26B5392AA2F93F6A3EF3781B86A6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>private-pub-socket-rocket-ios-side</string>
+		</dict>
+	</array>
+</dict>
+</plist>
